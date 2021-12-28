@@ -1,0 +1,19 @@
+JONES HOUSEHOLD --- FAMILY MEMBERS: 1
+firstName='FRANK', lastName='JONES', address='234 2ND AVE.', city='TACOMA', state='FL', age='23'
+
+JOHNSON HOUSEHOLD --- FAMILY MEMBERS: 1
+firstName='CAROL', lastName='JOHNSON', address='234 2ND AVE', city='SEATTLE', state='WA', age='67'
+
+SMITH HOUSEHOLD --- FAMILY MEMBERS: 4
+firstName='ALICE', lastName='SMITH', address='123 MAIN ST.', city='SEATTLE', state='WA', age='45'
+firstName='DAVE', lastName='SMITH', address='123 MAIN ST.', city='SEATTLE', state='WA', age='43'
+firstName='EVE', lastName='SMITH', address='234 2ND AVE.', city='TACOMA', state='WA', age='25'
+firstName='IAN', lastName='SMITH', address='123 MAIN ST ', city='SEATTLE', state='WA', age='18'
+
+BROWN HOUSEHOLD --- FAMILY MEMBERS: 2
+firstName='GEORGE', lastName='BROWN', address='345 3RD BLVD. APT. 200', city='SEATTLE', state='WA', age='18'
+firstName='HELEN', lastName='BROWN', address='345 3RD BLVD. APT. 200', city='SEATTLE', state='WA', age='18'
+
+WILLIAMS HOUSEHOLD --- FAMILY MEMBERS: 1
+firstName='BOB', lastName='WILLIAMS', address='234 2ND AVE.', city='TACOMA', state='WA', age='26'
+
